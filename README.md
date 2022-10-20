@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @iMpulse069
-- 👀 I’m interested in coding cryptocurency
+- 👀 I’m interested in gamedev , i use Unreal Engine 5 and ALS
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on create my own crypto and put it on market to sell
+- 💞️ I’m looking to create my own game ,movie scenes, video trailers games related 
 - 📫 you can find me at costin05vlc@gmail.com
 
 <!---
